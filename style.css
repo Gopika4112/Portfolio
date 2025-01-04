@@ -316,7 +316,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width:600px){
     .cursor{
-        display: none;
+        display:none;
     }
     .header-text{
         margin-top: 100%;
